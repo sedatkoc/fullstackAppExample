@@ -1,3 +1,1 @@
 # fullstackAppExample
-
-coming soon...
